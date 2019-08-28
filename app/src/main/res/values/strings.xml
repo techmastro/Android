@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HeadFirstApp1</string>
+    <string name="text_view">Text View</string>
+    <string name="button">Find Beer</string>
+    <string-array name="beer_colors">
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>
+</resources>
